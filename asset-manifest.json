@@ -1,0 +1,9 @@
+{
+  "index.css": "css/index.css",
+  "index.css.map": "css/index.css.map",
+  "index.js": "js/index.js",
+  "static/images/banner.jpg": "static/images/banner.jpg",
+  "static/images/icon_aotu.png": "static/images/icon_aotu.png",
+  "static/images/logo_jd.png": "static/images/logo_jd.png",
+  "static/images/logo_toplife.png": "static/images/logo_toplife.png"
+}
